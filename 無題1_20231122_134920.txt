@@ -1,0 +1,6 @@
+username(pollsアプリのやつ)：ychan
+アドレス：daoyelintailang@gmail.com
+パス：YM3MMqbM
+
+
+python manage.py runserver
